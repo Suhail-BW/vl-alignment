@@ -1,3 +1,2 @@
-# CoMM's project website
-# What to align in multimodal contrastive learning?
+# How data misalignment shapes vision-language representations??
 
